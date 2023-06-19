@@ -85,14 +85,14 @@ h1{
     }
 
     .delete-btn{
-        background-color:#af4261;
+        background-color: white;
         width: 30px;
         height: 30px;
         margin-right: 5px;
     }
 
     .check-btn{
-        background-color: #af4261;
+        background-color: white;
         width: 30px;
         height: 30px;
     }
